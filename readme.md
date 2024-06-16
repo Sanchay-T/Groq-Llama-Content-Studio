@@ -92,6 +92,8 @@ Follow these instructions to get your project up and running on your local machi
 
 ### Running the application
 
+
+
 Execute the following command to run the Streamlit application:
 
 ```bash
@@ -116,9 +118,12 @@ We welcome contributions from the community. If you'd like to contribute, please
 
 ## Demo
 
+https://github.com/Sanchay-T/Groq-Llama-Content-Studio/assets/64085789/0b258faa-7acb-46fc-9108-dfb34f44aede
+
 Check out our demo video to see the workflow in action:
 
-[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://democontent.blr1.cdn.digitaloceanspaces.com/Llama3Groq.mp4)
+
+
 
 Thank you for visiting my project. I hope you find this tutorial useful for your content creation needs!
 
