@@ -116,15 +116,9 @@ We welcome contributions from the community. If you'd like to contribute, please
 - Groq for their high-performance AI inference engine
 - Streamlit for enabling rapid application development
 
-## Demo
+## Check out this demo video to see the workflow in action:
+
 
 https://github.com/Sanchay-T/Groq-Llama-Content-Studio/assets/64085789/0b258faa-7acb-46fc-9108-dfb34f44aede
-
-Check out our demo video to see the workflow in action:
-
-
-
-
-Thank you for visiting my project. I hope you find this tutorial useful for your content creation needs!
 
 ---
