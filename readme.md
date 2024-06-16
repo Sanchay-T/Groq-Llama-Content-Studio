@@ -118,7 +118,7 @@ We welcome contributions from the community. If you'd like to contribute, please
 
 Check out our demo video to see the workflow in action:
 
-<video src="https://democontent.blr1.cdn.digitaloceanspaces.com/Llama3Groq.mp4" width="640" height="480" controls></video>
+[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://democontent.blr1.cdn.digitaloceanspaces.com/Llama3Groq.mp4)
 
 Thank you for visiting my project. I hope you find this tutorial useful for your content creation needs!
 
